@@ -1,1 +1,1 @@
-**https://avanlex.github.io/rsschool-cv/cv**
+# https://avanlex.github.io/rsschool-cv/cv
